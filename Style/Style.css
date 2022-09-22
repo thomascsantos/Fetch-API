@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Paytone One', sans-serif;
+    text-align: center;
+}
+
+.titulo {
+    background-color: rgb(5, 4, 4);
+    text-transform: uppercase;
+    padding: 20px;
+    color: rgb(201, 201, 201);
+}
+
+.geral {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: gray;
+
+}
+
+.rick {
+    border: 2px solid;
+    width: 310px;
+    background-color: rgb(155, 153, 153);
+    margin-bottom: 50px;
+}
+
+.morty {
+    border: 2px solid;
+    width: 310px;
+    background-color: rgb(219, 212, 212);
+    margin-bottom: 50px;
+}
+
+.summer {
+    background-color: rgb(155, 153, 153);
+    border: 2px solid;
+    width: 310px;
+    margin-bottom: 50px;
+}
+
+.beth {
+    background-color: rgb(219, 212, 212);
+    border: 2px solid;
+    width: 310px;
+    margin-bottom: 50px;
+}
+
+.jerry {
+    background-color: rgb(155, 153, 153);
+    border: 2px solid;
+    width: 310px;
+    margin-bottom: 50px;
+}
+
+.lincler {
+    background-color: rgb(155, 153, 153);
+    border: 2px solid;
+    width: 310px;
+    margin-bottom: 50px;
+}
+
+.albert {
+    background-color: rgb(155, 153, 153);
+    border: 2px solid;
+    width: 310px;
+    margin-bottom: 50px;
+}
+
+.johnny {
+    background-color: rgb(155, 153, 153);
+    border: 2px solid;
+    margin-bottom: 50px;
+    width: 310px;
+}
+
+.span {
+    color: rgb(0, 0, 0);
+    width: 70%;
+}
+
